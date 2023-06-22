@@ -1,1 +1,6 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+Timmy est une application développée par 4 étudiants du wagon du batch 1202 Developpement Web.
+L'objectif était de créer une plateforme de jeux éducatifs à destination des parents d'enfants de 4 à 6 ans.
+Avec des paramètres de suivi du temps de jeu.
+
+Application créée via Rails.
+
